@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a versatile show ticket booking & streaming app.<br>🌱 I’m currently learning ML & Game Development<br>📫 How to reach me ritulkulkarni03@gmail.com<br>⚡ Quote worth thinking Dreams are messages from the deep
+🔭 I’m currently working on a versatile movie ticket booking & streaming app.<br>🌱 I’m currently learning ML & Game Development<br>📫 How to reach me ritulkulkarni03@gmail.com<br>⚡ Quote worth thinking Dreams are messages from the deep
 
 
 ## 🌐 Socials:
